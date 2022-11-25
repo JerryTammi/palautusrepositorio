@@ -7,13 +7,19 @@ class Ostoskori:
         self.ostot = []
 
     def tavaroita_korissa(self):
-        return len(self.ostot)
+        tavaroita_korissa = 0
+        for o in self.ostot:
+            tavaroita_korissa = tavaroita_korissa + o.lukumaara()
+        return tavaroita_korissa
         # kertoo korissa olevien tavaroiden lukumäärän
         # eli jos koriin lisätty 2 kpl tuotetta "maito", tulee metodin palauttaa 2 
         # samoin jos korissa on 1 kpl tuotetta "maito" ja 1 kpl tuotetta "juusto", tulee metodin palauttaa 2 
 
     def hinta(self):
-        return 0
+        hinta = 0
+        for o in self.ostot:
+            hinta = hinta + o.hinta()
+        return hinta
         # kertoo korissa olevien ostosten yhteenlasketun hinnan
 
     def lisaa_tuote(self, lisattava: Tuote):
