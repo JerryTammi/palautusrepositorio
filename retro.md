@@ -11,4 +11,4 @@ Näihin osioihin saadaan kommentteja kysymällä:
 
 Glad, Sad, Mad
 
-Samanlainen idea kuin ylempänä oleva, mutta yksinkertaisempi. Osallistujat kirjoittavat lappuja relevanteista asioista esimerkiksi sprinttiin tai tiimiin liittyen, jotka jaetaan kolmeen osaalueeseen: Iloinen, Surullinen, ja Vihainen. Lopuksi äänestetään mistä keskustellaan äänten järjestämässä järjestyksessä kunnes kaikki ovat käyty läpi.
+Samanlainen idea kuin ylempänä oleva, mutta yksinkertaisempi. Osallistujat kirjoittavat lappuja relevanteista asioista esimerkiksi sprinttiin tai tiimiin liittyen, jotka jaetaan kolmeen osa-alueeseen: Iloinen, Surullinen, ja Vihainen. Lopuksi äänestetään mistä keskustellaan äänten järjestämässä järjestyksessä kunnes kaikki ovat käyty läpi.
